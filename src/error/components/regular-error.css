@@ -1,0 +1,18 @@
+.RegularError {
+	max-width: 768px;
+	width: 100%;
+	margin: 0 auto;
+	position: fixed;
+	left: 0;
+	right: 0;
+	top: 100px;
+	padding: 20px;
+	border-radius: 3px;
+	text-align: center;
+}
+
+.RegularError-description h1 {
+	font-family: Arial;
+	color: white;
+	font-size: 25px;
+}
