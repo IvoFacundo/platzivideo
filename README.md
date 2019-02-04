@@ -1,2 +1,2 @@
-# platzivideo
-Sitio Web hecho con ReactJS
+# Platzi Video
+Sitio Web hecho con ReactJS en el curso de React de PLATZI
